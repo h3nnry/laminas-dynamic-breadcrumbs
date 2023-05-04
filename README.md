@@ -1,5 +1,6 @@
 # Laminas view helper for dynamic breadcrumbs
 
+- Add BreadcrumbsManager file to your view helpers directory.
 - Open the file <span style="color:red"> config/viewHelper.config.php</span>. In that file, add next structure:
 ```
 <?php
